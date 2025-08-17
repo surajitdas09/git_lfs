@@ -1,5 +1,4 @@
-#### git_lfs
-How to store large files using GIT-LFS.
+# GIT-LFS
 
 #### How to do it?
 
@@ -22,4 +21,10 @@ git lfs track "*.zip"
 Step 4: Add Commit Push
 ```
 git add file_name.bz2
+```
+```
+git commit -m "uploading"
+```
+```
+git push 
 ```
